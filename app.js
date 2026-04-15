@@ -91,7 +91,7 @@ app.get('/v1/senai/whatsapp/help/', function (request, response) {
             },
             {
                 "router3": "/v1/senai/whatsapp/dados/?phoneNumber=11987876567&nameUser=Jane Smith",
-                "description": "Listar dados de por número de telefone e nome de contato"
+                "description": "Listar dados de contato por número de telefone e nome de contato"
             },
             {
                 "router4": "/v1/senai/whatsapp/dados/usuario/1",
